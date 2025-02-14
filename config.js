@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://soundcloud.com/user-126922082/jorge-rivera-herrans-would-you-fall-in-love-with-me-again", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dgqe3qbkx/video/upload/v1739492913/grfsn7mrcd14eounxnvu.mp3", // Music streaming URL
         startText: "🎵 Would you fall in love with me again?",        // Button text to start music
         stopText: "🔇 Dejar de escuchar esta obra maestra",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
